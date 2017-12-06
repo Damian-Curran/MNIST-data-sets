@@ -11,3 +11,9 @@ You will need the numpy library too, to do so, open your cmd and enter: pip inst
 Install Jupyter notebook using: pip install jupyter
 
 Install Matplotlib using: pip install matplotlib
+
+## Using this repository
+
+git clone https://github.com/Damian404/MNIST-data-sets.git
+
+Then open Jupyter notebook and open clone
