@@ -1,5 +1,11 @@
 # MNIST-data-sets
 
+## Problem Sheet 2
+
+In this repository we will be taking a look at the MNIST data set and investigating its different aspects.
+We will then read MNIST data(image bytes/ label bytes).
+We will also print out images using dots and hashes.
+
 ## Installing needed technologies
 
 You'll will first need to install Python, this can be done by following this link and its instructions, install Python 3 [Pyton Install](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
